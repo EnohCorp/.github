@@ -1,5 +1,5 @@
 ### About Lotus
-Lotus is a group of 8 People that specialize in Pentesting and Programming
+Lotus is a group of 5 People that specialize in Pentesting and Programming and Raider of Discord and Doxer 
 Each one of us specializes in different things than the others, that way we can do many things at once.
 ### Quality / Delivery
 We provide Fast Delivery and high Quality Services
