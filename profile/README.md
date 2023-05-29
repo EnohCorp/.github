@@ -1,17 +1,9 @@
 ### About Lotus
+Lotus is a group of 8 People that specialize in Pentesting and Programming
+Each one of us specializes in different things than the others, that way we can do many things at once.
 
-Lotus is a group of 8 people specializing in Pentesting and Programming. Each member of our team has unique expertise, allowing us to cover a wide range of tasks simultaneously.
+### Quality / Delivery
+We provide Fast Delivery and high Quality Services
+Our deliveries always arive on time with a high Quality, clean and Secure Code. If there are any issues we take the matter in our hands really fast to resolve your issues
 
-### Gast Security
-
-Gast Security is our expert in low-level security and exploitation. With a focus on web pentesting, network security, and IoT pentesting, Gast Security ensures that our clients' systems are thoroughly tested and protected.
-
-### Services Offered
-
-- Web Application Penetration Testing
-- Network Security Assessment
-- IoT Security Testing
-- Code Review and Vulnerability Assessment
-- Security Consultation and Training
-
-Feel free to <a href="https://discord.gg/NMUgc3pNQj">reach out to us</a> for any security-related needs or programming projects! We are dedicated to delivering high-quality solutions tailored to your specific requirements.
+![Background](https://user-images.githubusercontent.com/123122904/218341027-96923cf3-9f99-497a-98a5-168ab98a0e6b.png)
